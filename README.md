@@ -1,4 +1,4 @@
-![deco31416](https://github.com/deco31416/deco31416/blob/main/public/31416-white.svg)
+![deco31416](https://github.com/deco31416/deco31416/blob/main/public/deco31416.svg)
 
 
 ### 🚀 **About Me:**
