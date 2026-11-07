@@ -1,48 +1,60 @@
 <p align="center">
-  <img src="https://github.com/deco31416/deco31416/blob/main/public/deco-wall.svg" alt="DECO31416" width="100%" />
+  <img
+    src="https://res.cloudinary.com/deco31416/image/upload/v1794083722/cover-deco31416_bga9qj.png"
+    alt="DECO31416 — software, inteligencia artificial e ingeniería"
+    width="100%"
+  />
 </p>
 
-<h1 align="center">José Cordero — DECO31416</h1>
+<h1 align="center">José Cordero · DECO31416</h1>
 
-<h3 align="center">FinTech & Blockchain Architect · Backend & Distributed Systems Engineer</h3>
+<h3 align="center">
+  Full-Stack Software Engineer & Technology Product Architect
+</h3>
+
+<p align="center">
+  Software, AI solutions, and secure digital products built with a business vision.
+</p>
 
 <p align="center">
   <a href="https://www.deco31416.com">Website</a> ·
-  <a href="https://github.com/deco31416">GitHub</a> ·
-  <a href="mailto:contacto@deco31416.com">Email</a>
+  <a href="mailto:deco31416@gmail.com">Email</a>  ·
+   <a href="https://www.facebook.com/deco31416">Facebook</a>
 </p>
 
 ---
 
 ## About Me
 
-I’m a systems engineer and software architect focused on designing and building technology platforms at the intersection of **FinTech, blockchain, distributed systems, and AI**.
+I’m a systems engineer, full-stack developer, and technology product architect. I turn business ideas and real-world challenges into useful, secure digital products.
 
-My work centers on turning complex requirements into reliable, production-oriented software: financial infrastructure, trading platforms, payment systems, blockchain integrations, and scalable backend services.
-
-I combine hands-on engineering with technical leadership, architecture design, and product development. I enjoy working across the full lifecycle — from system design and technical decisions to implementation, integration, and delivery.
+I build software platforms, custom AI solutions, and backend systems—from early technical decisions through implementation and delivery. My work combines hands-on engineering with product thinking, clear architecture, and a focus on building systems that can grow.
 
 ## What I Build
 
-- **FinTech Infrastructure** — Payment processing, financial APIs, transaction workflows, reconciliation, and digital-asset wallet systems.
-- **Trading Systems** — Exchange architecture, spot and derivatives workflows, order management, and market integrations.
-- **Blockchain Engineering** — Smart contracts, EVM integrations, token infrastructure, self-custody wallets, and DeFi applications.
-- **Backend & Distributed Systems** — Microservices, API design, event-driven workflows, database architecture, and scalable services.
-- **AI & Agentic Systems** — LLM-powered applications, AI agents, multi-agent architectures, and workflow automation.
+- **Digital Products** — MVPs, SaaS platforms, web applications, and custom software.
+- **AI Solutions** — AI agents, LLM-powered applications, and workflow automation.
+- **Cybersecurity** — Scoped security testing to help identify weaknesses and strengthen systems.
+- **AI Security** — Technical reviews of AI applications, agents, and LLM integrations.
+- **Backend Systems** — APIs, integrations, databases, and services built for reliability and growth.
 
 ## Technical Skills
 
-**Languages**
+**Languages & Development**
 
 `TypeScript` · `JavaScript` · `Node.js` · `Java` · `Python` · `Rust` · `Solidity`
 
 **Backend & Architecture**
 
-`Microservices` · `REST APIs` · `Distributed Systems` · `Event-Driven Architecture` · `Linux`
+`REST APIs` · `Microservices` · `Distributed Systems` · `Event-Driven Architecture` · `Linux`
 
-**Blockchain & Web3**
+**AI Engineering**
 
-`EVM` · `Solidity` · `Smart Contracts` · `Wallet Infrastructure` · `DeFi` · `Web3 Integrations`
+`LLM Integration` · `AI Agents` · `Multi-Agent Systems` · `Workflow Automation`
+
+**Blockchain & FinTech**
+
+`EVM` · `Smart Contracts` · `Wallet Infrastructure` · `DeFi` · `Payment Systems`
 
 **Databases & Infrastructure**
 
@@ -52,46 +64,33 @@ I combine hands-on engineering with technical leadership, architecture design, a
 
 `React` · `React Native` · `Next.js` · `HTML5` · `CSS3`
 
-**AI Engineering**
+## How I Work
 
-`LLM Integration` · `AI Agents` · `Multi-Agent Systems` · `AI Automation`
-
-## Engineering Interests
-
-- Secure financial infrastructure and digital-asset systems.
-- Wallet architecture, custody models, and blockchain integrations.
-- Trading engines, order workflows, and market connectivity.
-- Reliable backend services and distributed architectures.
-- Practical applications of LLMs and agentic software systems.
+- **Business-aware engineering:** build around the real need and intended outcome.
+- **Security by design:** consider trust boundaries, permissions, and failure cases early.
+- **Practical architecture:** choose designs that fit the product and its growth path.
+- **Maintainable software:** keep code, interfaces, and documentation clear.
+- **Reliable delivery:** account for deployment, observability, and day-to-day operation.
 
 ## Selected Work
 
-I use my repositories to demonstrate engineering decisions, implementation quality, and practical problem-solving.
+My repositories show how I approach software design, implementation, and problem-solving.
 
-Explore my projects for work related to:
+Explore GitHub for projects involving:
 
-- FinTech platforms and exchange infrastructure.
-- Blockchain applications and smart-contract development.
-- Backend services and distributed systems.
-- AI-powered applications and agentic architectures.
+- Digital products and web platforms.
+- AI-powered applications and automation.
+- Backend services and integrations.
+- FinTech and blockchain engineering.
 
-> Project availability and documentation vary by repository. Please refer to each project’s README for its scope, status, setup instructions, and technical details.
+Project scope and status vary by repository. Check each project’s README for its documentation and setup instructions.
 
-## Professional Principles
+## Let’s Connect
 
-- **Architecture with purpose:** choose designs that solve the actual problem.
-- **Security by design:** consider trust boundaries, permissions, and failure modes early.
-- **Maintainability:** favor clear interfaces, readable code, and useful documentation.
-- **Reliability:** build for observability, predictable behavior, and operational realities.
-- **Evidence over buzzwords:** let working software and documented decisions demonstrate capability.
-
-## Let's Connect
-
-I’m open to collaborating with teams and founders building products in **FinTech, blockchain, backend infrastructure, and AI**.
+I’m open to collaborating with founders and teams building useful products in software, AI, cybersecurity, and digital infrastructure.
 
 - **Website:** [deco31416.com](https://www.deco31416.com)
-- **Email:** [contacto@deco31416.com](mailto:contacto@deco31416.com)
-- **GitHub:** [github.com/deco31416](https://github.com/deco31416)
+- **Email:** [contacto@deco31416.com](mailto:deco31416@gmail.com)
 - **X:** [@deco31416](https://x.com/deco31416)
 - **Medium:** [medium.com/@deco31416](https://medium.com/@deco31416)
 - **Facebook:** [facebook.com/deco31416](https://www.facebook.com/deco31416)
@@ -99,5 +98,5 @@ I’m open to collaborating with teams and founders building products in **FinTe
 ---
 
 <p align="center">
-  <strong>Building reliable systems for complex problems.</strong>
+  <strong>Engineering with a business vision — from idea to useful digital product.</strong>
 </p>
